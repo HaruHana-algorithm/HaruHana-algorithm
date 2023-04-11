@@ -5,7 +5,7 @@ const solution = (progresses, speeds) => {
   );
   let maxDay = days[0];
 
-  for (let { i, j } = 0; i < days.length; i++) {
+  for (let i = 0, j = 0; i < days.length; i++) {
     if (days[i] <= maxDay) {
       answer[j] += 1;
     } else {
