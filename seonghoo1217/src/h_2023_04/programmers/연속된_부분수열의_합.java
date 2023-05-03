@@ -1,7 +1,7 @@
 package h_2023_04.programmers;
 
 public class 연속된_부분수열의_합 {
-	class Solution {
+	static class Solution {
 		public int[] solution(int[] sequence, int k) {
 
 			int N = sequence.length;
@@ -27,5 +27,12 @@ public class 연속된_부분수열의_합 {
 
 			return answer;
 		}
+	}
+
+	public static void main(String[] args) {
+		Solution solution=new Solution();
+		int [] sequence={1,2,3,4,5};
+		int k=7;
+		solution.solution(sequence,k);
 	}
 }
