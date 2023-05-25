@@ -1,4 +1,4 @@
-package h_2023_05;
+package h_2023_05.programmers;
 
 public class 푸드_파이터_대회 {
 	public String solution(int[] food) {

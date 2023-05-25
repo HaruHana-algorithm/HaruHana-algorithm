@@ -1,4 +1,4 @@
-package h_2023_05;
+package h_2023_05.programmers;
 
 public class 숫자카드_나누기 {
 	public boolean notDivisible(int[] arr, int num){

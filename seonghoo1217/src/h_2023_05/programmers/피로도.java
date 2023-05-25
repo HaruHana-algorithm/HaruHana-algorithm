@@ -1,4 +1,4 @@
-package h_2023_05;
+package h_2023_05.programmers;
 
 public class 피로도 {
 

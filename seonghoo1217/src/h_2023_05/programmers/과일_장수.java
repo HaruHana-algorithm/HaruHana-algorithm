@@ -1,7 +1,6 @@
-package h_2023_05;
+package h_2023_05.programmers;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class 과일_장수 {
 	public int solution(int k, int m, int[] score) {

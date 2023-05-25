@@ -1,4 +1,4 @@
-package h_2023_05;
+package h_2023_05.programmers;
 
 public class 콜라문제 {
 	public int solution(int a, int b, int n) {
