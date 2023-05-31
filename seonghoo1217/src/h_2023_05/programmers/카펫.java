@@ -1,0 +1,32 @@
+package h_2023_05.programmers;
+
+public class 카펫 {
+	public int[] solution(int brown, int yellow) {
+		int[] answer = new int[2];
+		int sum = brown + yellow;
+
+		for (int i = 3; i < sum; i++) {
+			int j = sum / i;
+
+			if (sum % i == 0 && j >= 3) {
+				int col = Math.max(i, j);
+				int row = Math.min(i, j);
+				int center = (col - 2) * (row - 2);
+
+				if (center == yellow) {
+					answer[0] = col;
+					answer[1] = row;
+					return answer;
+				}
+			}
+		}
+		return answer;
+	}
+
+	public static void main(String[] args) {
+		int brown=24;
+		int yellow=24;
+		카펫 solution = new 카펫();
+		solution.solution(brown,yellow);
+	}
+}
