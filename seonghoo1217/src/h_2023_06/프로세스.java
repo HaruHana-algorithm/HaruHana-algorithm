@@ -1,8 +1,6 @@
 package h_2023_06;
 
 import java.util.Collections;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.PriorityQueue;
 
 public class 프로세스 {
