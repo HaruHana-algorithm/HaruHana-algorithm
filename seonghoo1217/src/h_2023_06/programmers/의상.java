@@ -1,7 +1,6 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 public class 의상 {
 	public int solution(String[][] clothes) {

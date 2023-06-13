@@ -1,4 +1,4 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 public class 타겟_넘버 {
 	static int answer = 0;

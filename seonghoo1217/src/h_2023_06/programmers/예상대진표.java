@@ -1,4 +1,4 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 public class 예상대진표 {
 	public int solution(int n, int a, int b)

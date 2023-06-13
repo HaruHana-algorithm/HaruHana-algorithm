@@ -1,4 +1,4 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 public class 조이스틱 {
 	public int solution(String name) {

@@ -1,6 +1,5 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
-import java.util.Arrays;
 import java.util.PriorityQueue;
 
 public class 더_맵게 {

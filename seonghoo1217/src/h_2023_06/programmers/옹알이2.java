@@ -1,4 +1,4 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 public class 옹알이2 {
 	public int solution(String [ ] babling){

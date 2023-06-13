@@ -1,8 +1,6 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
 
 public class 체육복 {
 	public int solution(int n, int[] lost, int[] reserve) {

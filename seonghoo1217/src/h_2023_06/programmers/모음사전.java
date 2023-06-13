@@ -1,4 +1,4 @@
-package h_2023_06;
+package h_2023_06.programmers;
 
 public class 모음사전 {
 	public int solution(String word) {
